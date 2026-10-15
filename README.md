@@ -16,7 +16,7 @@ F-15 Striker: An agile fighter plane with more missiles at your disposal
 F-15: Eagle: A great mixed plane with 6 missiles and a bunch of cool stuff. (Ideal)
 Heavy Bomber: A large, slow plane that is hard to maneuver and control can drop bombs with the 'V' key. (Hardest and least favourable) 
 
-
+NEW UPDATE: Water, oceans, seas, rivers and lakes. Also Flares, aircraft carriers, enemy destroyers and better labels. As well as auto land. 
 
 
 This was created by RJS and LB (Co-creation)
